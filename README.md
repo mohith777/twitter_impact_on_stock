@@ -1,1 +1,1 @@
-# twitter_stock_impact
+# twitter_impact_on_stock
